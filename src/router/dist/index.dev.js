@@ -13,7 +13,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 _vue["default"].use(_vueRouter["default"]);
 
-var routes = [{}];
+var routes = [];
 var router = new _vueRouter["default"]({
   routes: routes
 });

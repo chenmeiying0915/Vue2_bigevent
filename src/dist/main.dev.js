@@ -10,6 +10,8 @@ var _store = _interopRequireDefault(require("./store"));
 
 require("@/assets/global.less");
 
+require("@/ElementUI");
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 _vue["default"].config.productionTip = false;
